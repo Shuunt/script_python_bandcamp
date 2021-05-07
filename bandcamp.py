@@ -4,7 +4,6 @@ import shutil
 import zipfile
 
 path = os.getcwd()
-#file = sys.argv[1:]
 for file in sys.argv:
     if "bandcamp.py" not in file:
         print ("The current working directory is %s" % path)
