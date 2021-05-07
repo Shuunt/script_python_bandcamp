@@ -6,4 +6,6 @@ All you need to do is to have a repertory where you'll put all your albums zips 
 
 ```python bandcamp.py *```
 
+Or you can move the script with it's .bat and launch the .bat instead
+
 tried on windows
